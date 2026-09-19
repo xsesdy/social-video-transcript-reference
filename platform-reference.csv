@@ -1,0 +1,6 @@
+platform,accepted_link,copy_method,public_access_required,caption_handling,outputs,not_supported,platform_limit
+Instagram,Public video or Reel URL,Copy the video or Reel share link,Yes,Use captions when available or transcribe speech from audio,TXT and SRT,Private-account content,Spoken language is detected automatically
+TikTok,Public TikTok video URL,Use Share and copy the link,Yes,Use caption track when available or transcribe speech from audio,TXT and SRT,Private videos,Captionless videos can take longer
+YouTube,Public YouTube video URL,Copy the video URL,Yes,Prefer manual captions then auto captions or transcribe speech from audio,TXT and SRT,Content unavailable to a public viewer,Output stays in the spoken language without translation
+Facebook,Public video Reel or saved Live replay URL,Use Share or options and copy the link,Yes,Use captions when available or transcribe speech from audio,TXT and SRT,Stories private friends-only private Group or deleted videos,Expired Stories are not retrievable
+X Twitter,Public x.com or twitter.com video-post URL,Use the post share icon or copy the browser URL,Yes,Use captions when available or transcribe speech from audio,TXT and SRT,Protected followers-only deleted age-restricted photo-only or silent GIF posts,Either domain works one link at a time and a captionless request stops after two minutes
